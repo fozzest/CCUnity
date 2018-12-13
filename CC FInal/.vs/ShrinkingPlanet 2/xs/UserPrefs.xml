@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{04522260-1DA9-88B0-AA0A-B8F8A5B9612B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GravityAttractor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="84" Column="28" />
+      <File FileName="Assets/Scripts/TreeSpawner.cs" Line="27" Column="35" />
+      <File FileName="Assets/Scripts/Scene0102.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SmoothFollow.cs" Line="55" Column="1" />
+      <File FileName="Assets/TreeCounter.cs" Line="20" Column="18" />
+      <File FileName="Assets/Shaders/FurShader_20.shader" Line="75" Column="8" />
+      <File FileName="Assets/Shaders/First.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/Unlit01.shader" Line="32" Column="15" />
+      <File FileName="Assets/Scripts/GravityAttractor.cs" Line="11" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
